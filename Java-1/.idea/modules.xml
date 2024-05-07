@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-1.iml" filepath="$PROJECT_DIR$/.idea/Java-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Types/Types.iml" filepath="$PROJECT_DIR$/Types/Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/morgage calculator/morgage calculator.iml" filepath="$PROJECT_DIR$/morgage calculator/morgage calculator.iml" />
+    </modules>
+  </component>
+</project>

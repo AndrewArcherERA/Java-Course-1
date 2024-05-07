@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-2/Java-2.iml" filepath="$PROJECT_DIR$/Java-2/Java-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mosh Courses.iml" filepath="$PROJECT_DIR$/Mosh Courses.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Types/Types.iml" filepath="$PROJECT_DIR$/Types/Types.iml" />
-      <module fileurl="file://$PROJECT_DIR$/morgage calculator/morgage calculator.iml" filepath="$PROJECT_DIR$/morgage calculator/morgage calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-1/Types/Types.iml" filepath="$PROJECT_DIR$/Java-1/Types/Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-1/morgage calculator/morgage calculator.iml" filepath="$PROJECT_DIR$/Java-1/morgage calculator/morgage calculator.iml" />
     </modules>
   </component>
 </project>
